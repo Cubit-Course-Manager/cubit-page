@@ -6,6 +6,14 @@ Cubit 為一個課程管理系統，使用者可以透過此系統創建團隊�
 
 Cubit is a course management system, which users can create organizations, and add staff to the organization. Admins in the organization can create and manage courses for staffs to apply, makes organizations easier to manage a massive amount of courses or activities.
 
+<a href="https://play.google.com/store/apps/details?id=com.enquestor.cubit">
+    <img src="./assets/google_play_badge.png" alt="Get it on Google Play" width="200"/>
+</a>
+
+<a href="https://apps.apple.com/gb/app/cubit/id1626528630?uo=2">
+    <img src="./assets/app_store_badge.png" alt="Download on the App Store" width="200"/>
+</a>
+
 ## 隱私權政策 Privacy Policy
 
 [Cubit - Privacy Policy](https://cubit.ricky-hu.com/privacy)
